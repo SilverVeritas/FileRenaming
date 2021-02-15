@@ -1,6 +1,6 @@
 """
 Auto Anime Folder Renamer
-Patrick Serrano
+SilverVeritas
 2-12-2021
 
 This will rename folder in the current directory. It does this by:
